@@ -5,7 +5,7 @@ The **`earlier you embrace it`**, **`the stronger your foundation becomes`**.*
 
 ## 📅 Today: 20th Apr 2026
 
-I switched to Linux (Xubuntu) on **24th March 2026** and now\
+I switched from Windows to Linux (Xubuntu) on **24th March 2026** and now\
 **I haven’t opened Windows in over two weeks.**
 
 *Not because I have to avoid it — but because I genuinely don’t feel the **`need`** anymore. This system feels fast, clean, and most importantly… it feels like home.*
@@ -25,7 +25,7 @@ I switched to Linux (Xubuntu) on **24th March 2026** and now\
 
 I redesigned my entire workflow using XFCE with one goal:
 
-**When you choose DevOps you choose Linux**
+**When you choose DevOps, you choose Linux. Accept it or left behind**
 
 *Instead of relying on UI-heavy tools, I built:*
 - **Shortcut-driven environment**:
@@ -90,7 +90,7 @@ The earlier you embrace it, the stronger your foundation becomes.
 | StartAllBack             | XFCE Panel               | full customization            |
 | Show Desktop             | wmctrl                   | switch (super+d)              |
 | Terminal (Windows CMD)   | XFCE Terminal (bash)     | favorite 🔥                   |
-| Many more........
+| Many more........        |                          |                               |
 
 Everything I do, almost has a shortcut key:
 
@@ -103,7 +103,7 @@ Everything I do, almost has a shortcut key:
 ## 💭 My Take
 
 Linux didn’t just replace my tools —  
-**it improved how I think, work, and execute.**
+**it matches with how I think, work, and execute.**
 
 ------------------------------------------------------------------------
 
@@ -134,4 +134,4 @@ You need:
 And I’ve learned this:\
 **You either evolve with technology — or you get left behind.**
 
-Because when something aligns with you — you grow faster without even trying.
+and when something aligns with you — you grow faster without even trying.
