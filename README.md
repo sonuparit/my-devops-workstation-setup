@@ -85,7 +85,7 @@ The earlier you embrace it, the stronger your foundation becomes.
 | MPC-HC                   | mpv                      | FSK (UI-less feel)            |
 | Office-2007-portable     | AbiWord, Evince, Gnumeric| —                             |
 | Filmora                  | Kdenlive                 | —                             |
-| Traffic monitor          | monitor.sh (custom)      | custom script                 |
+| Traffic monitor          | monitor.sh [(vew here)](https://github.com/sonuparit/custom-system-monitor)      | custom script                 |
 | Clipboard (win + .)      | Clipman                  | super + v                     |
 | StartAllBack             | XFCE Panel               | full customization            |
 | Show Desktop             | wmctrl                   | switch (super+d)              |
