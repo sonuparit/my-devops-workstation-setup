@@ -13,19 +13,27 @@ I switched from Windows to Linux (Xubuntu) on **24th March 2026** and now\
 *What made the difference wasn’t just switching to Linux — it was how I shaped it around my workflow.*\
 **If something doesn’t exist the way I need it, I create it. Simple as that.**
 
----
+## 📑 Table of Contents
+
+- **[Core Idea](#-core-idea)**
+- **[Mindset](#-mindset)**
+- **[A Lesson That Shaped Me](#-a-lesson-that-shaped-me)**
+- **[My Linux Philosophy](#-my-linux-philosophy)**
+- **[What I Set Up](#️-what-i-set-up)**
+- **[My Take](#-my-take)**
+- **[Screenshots](#-screenshots)**
+- **[Final Thought](#-final-thought)**
 
 ## 🚀 Core Idea
 
+**When you choose DevOps, you choose Linux. Accept it or left behind**
+
+I redesigned my entire workflow using XFCE with one goal:
 - **FSK = Full on Shortcut Keys**
 - No distractions
 - No unnecessary clicks
 - Just speed, control, and focus
 - Add your own functionality
-
-I redesigned my entire workflow using XFCE with one goal:
-
-**When you choose DevOps, you choose Linux. Accept it or left behind**
 
 *Instead of relying on UI-heavy tools, I built:*
 - **Shortcut-driven environment**:
@@ -36,7 +44,7 @@ I redesigned my entire workflow using XFCE with one goal:
 ## 🧠 Mindset
 
 This setup is not about tools.  
-It’s about reducing friction between thought and execution — which is critical in a rapidly changing DevOps world.
+It’s about **`reducing friction between thought and execution`** — which is critical in a rapidly changing DevOps world.
 
 ---
 
@@ -60,9 +68,9 @@ It’s about reducing friction between thought and execution — which is critic
 
 ## 🐧 My Linux Philosophy
 
-If you choose DevOps, you choose Linux.
+**`If you choose DevOps, you choose Linux.`**
 
-The earlier you embrace it, the stronger your foundation becomes.
+**The earlier you embrace it, the stronger your foundation becomes.**
 
 ### What I value most:
 - Full customization  
@@ -70,6 +78,8 @@ The earlier you embrace it, the stronger your foundation becomes.
 - Less clicking, more doing  
 - Greater control  
 - Better focus  
+
+and linux gives it all
 
 ---
 
@@ -92,7 +102,7 @@ The earlier you embrace it, the stronger your foundation becomes.
 | Terminal (Windows CMD)   | XFCE Terminal (bash)     | favorite 🔥                   |
 | Many more........        |                          |                               |
 
-Everything I do, almost has a shortcut key:
+### Everything I do, almost has a shortcut key:
 
 ![alt text](./screenshots/screenshot07.png)
 ![alt text](./screenshots/screenshot08.png)
@@ -122,16 +132,20 @@ Linux didn’t just replace my tools —
 
 ## 🔥 Final Thought
 
-You don’t need a powerful system.
+**You don’t need a powerful system.**
 
 You need:
-- Clarity in your workflow 
-- The ability to adapt  
+- **Clarity in your workflow**
+- **The ability to adapt**  
 
+For me:\
 **Linux feels natural — like it understands how I want to work.**\
 **On Windows, I was always trying to adjust myself to the system.**
 
-And I’ve learned this:\
-**You either evolve with technology — or you get left behind.**
+**When you choose DevOps, you're choosing Linux as well — so it makes sense to switch early.**
 
-and when something aligns with you — you grow faster without even trying.
+Always remember:\
+**Your choices either help you evolve with technology — or leave you behind.**
+
+And as for me,\
+**`I chose Linux because I want to evolve.`**
