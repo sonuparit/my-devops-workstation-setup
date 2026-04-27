@@ -26,9 +26,12 @@ I switched from Windows to Linux (Xubuntu) on **24th March 2026** and now\
 
 ## 🚀 Core Idea
 
-**When you choose DevOps, you choose Linux. Accept it or left behind**
+**When you choose DevOps, you choose Linux. Accept it or get left behind**
+
+![alt text](screenshots/8.jpg)
 
 I redesigned my entire workflow using XFCE with one goal:
+
 - **FSK = Full on Shortcut Keys**
 - No distractions
 - No unnecessary clicks
@@ -36,6 +39,7 @@ I redesigned my entire workflow using XFCE with one goal:
 - Add your own functionality
 
 *Instead of relying on UI-heavy tools, I built:*
+
 - **Shortcut-driven environment**:
 - **Everything is just one keypress away.**
 
@@ -72,7 +76,8 @@ It’s about **`reducing friction between thought and execution`** — which is 
 
 **The earlier you embrace it, the stronger your foundation becomes.**
 
-### What I value most:
+### What I value most
+
 - Full customization  
 - Fast and responsive  
 - Less clicking, more doing  
@@ -102,11 +107,10 @@ and linux gives it all
 | Terminal (Windows CMD)   | XFCE Terminal (bash)     | favorite 🔥                   |
 | Many more........        |                          |                               |
 
-### Everything I do, almost has a shortcut key:
+### Everything I do, almost has a shortcut key
 
 ![alt text](./screenshots/screenshot07.png)
 ![alt text](./screenshots/screenshot08.png)
-
 
 ------------------------------------------------------------------------
 
@@ -135,6 +139,7 @@ Linux didn’t just replace my tools —
 **You don’t need a powerful system.**
 
 You need:
+
 - **Clarity in your workflow**
 - **The ability to adapt**  
 
